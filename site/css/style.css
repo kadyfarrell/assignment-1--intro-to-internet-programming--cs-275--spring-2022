@@ -5,12 +5,12 @@ body{
   background-color: yellow;
 }
 h1{
-  font-family: serif;
+  font-family: 'Redressed', cursive;
   font-size: 48px;
   text-align: center;
 }
 div{
-  font-family: serif;
+  font-family: 'Anton', sans-serif;
   font-size: 32px;
   margin: 20px;
 }
